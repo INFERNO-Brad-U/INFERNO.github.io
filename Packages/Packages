@@ -1,0 +1,19 @@
+Package: com.inferno.cylinder
+
+Name: Cylinder
+
+Version: 1.0.6
+
+Size: 225
+
+Architecture: iphoneos-arm
+
+Description: Compatible with all iOS including iOS 12
+
+Maintainer: INFERNO <a7blockeyblueyt@gmail.com>
+
+Author: Reed Weichler
+Section: Tweaks
+
+File name: debs//cylinder.deb
+MD5sum: 1C0EEBE91F6E03FAEA96218DADF8F4CC
