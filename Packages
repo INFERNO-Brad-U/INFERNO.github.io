@@ -33,3 +33,15 @@ Author: TIGI Software
 Section: Utilities
 MD5Sum: 048401d3a93394db3a7fce4e3fbffbee
 Filename: debs//filzafilemanager.deb
+
+Package: com.inferno.neptune
+Name: Neptune (iOS 12)
+Version: 1.0
+Size: 29418
+Architecture: iphoneos-arm
+Description: iPhone X features and gestures on lower devices. DOES NOT INCLUDE FACE ID! (Install Appellancy for Face ID!!)
+Maintainer: INFERNO <bradlyupshaw@gmail.com>
+Author: Duraidabdul
+Section: Tweaks
+MD5Sum: a06518c81088ffa1a717086edf6ea397
+Filename: debs//Neptune.deb
