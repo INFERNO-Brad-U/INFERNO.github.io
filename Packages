@@ -45,3 +45,15 @@ Author: Duraidabdul
 Section: Tweaks
 MD5Sum: a06518c81088ffa1a717086edf6ea397
 Filename: debs//Neptune.deb
+
+Package: com.inferno.safeshutdown
+Name: SafeShutDown
+Version: 1.40
+Size: 316078
+Architecture: iphoneos-arm
+Description: Avoid Re-Jailbreaking when battery runs out!
+Maintainer: INFERNO <bradlyupshaw@gmail.com>
+Author: Kurrt
+Section: Tools
+MD5Sum: 1ed3f64b34d3eb0e956eef0cc6e3854c
+Filename: debs//safeshutdown.deb
