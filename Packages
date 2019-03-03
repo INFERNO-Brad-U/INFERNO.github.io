@@ -13,7 +13,7 @@ Filename: debs//cylinder.deb
 Package: com.inferno.pulltorespring
 Name: PullToRespring
 Version: 1.2
-Size: 15,492
+Size: 15492
 Architecture: iphoneos-arm
 Description: Go to settings, go to the very top, and refresh to respring!
 Maintainer: INFERNO <bradlyupshaw@gmail.com>
