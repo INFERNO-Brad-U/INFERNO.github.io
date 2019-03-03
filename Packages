@@ -1,0 +1,11 @@
+Package: com.inferno.cylinder
+Name: Cylinder
+Version: 1.0.6
+Size: 255
+Architecture: iphoneos-arm
+Description: Make your icons dance!
+Maintainer: INFERNO <bradlyupshaw@gmail.com>
+Author: Reed Weichler
+Section: Tweaks
+MD5sum: 1C0EEBE91F6E03FAEA96218DADF8F4CC
+File Name: debs//cylinder.deb
