@@ -21,3 +21,15 @@ Author: Noah Saso
 Section: Utilities
 MD5Sum: 9c4a1e77a40ca74cc5edb9991b40868c
 Filename: debs//pulltorespring.deb
+
+Package: com.inferno.filzafilemanager
+Name: Filza File Manager
+Version: 3.6.3
+Size: 9283884
+Architecture: iphoneos-arm
+Description: Browse your file system! USE ONLY IF YOU KNOW WHAT YOU ARE DOING!!!
+Maintainer: INFERNO <bradlyupshaw@gmail.com>
+Author: TIGI Software
+Section: Utilities
+MD5Sum: 048401d3a93394db3a7fce4e3fbffbee
+Filename: debs//filzafilemanager.deb
