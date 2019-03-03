@@ -8,4 +8,16 @@ Maintainer: INFERNO <bradlyupshaw@gmail.com>
 Author: Reed Weichler
 Section: Tweaks
 MD5sum: 1C0EEBE91F6E03FAEA96218DADF8F4CC
-File Name: debs//cylinder.deb
+Filename: debs//cylinder.deb
+
+Package: com.inferno.pulltorespring
+Name: PullToRespring
+Version: 1.2
+Size: 15.1
+Architecture: iphoneos-arm
+Description: Go to settings, go to the very top, and refresh to respring!
+Maintainer: INFERNO <bradlyupshaw@gmail.com>
+Author: Noah Saso
+Section: Utilities
+MD5sum:
+Filename: debs//pulltorespring.deb
