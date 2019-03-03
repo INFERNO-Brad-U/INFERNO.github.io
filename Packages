@@ -7,7 +7,7 @@ Description: Make your icons dance!
 Maintainer: INFERNO <bradlyupshaw@gmail.com>
 Author: Reed Weichler
 Section: Tweaks
-MD5sum: 1C0EEBE91F6E03FAEA96218DADF8F4CC
+MD5: 1C0EEBE91F6E03FAEA96218DADF8F4CC
 Filename: debs//cylinder.deb
 
 Package: com.inferno.pulltorespring
@@ -19,5 +19,5 @@ Description: Go to settings, go to the very top, and refresh to respring!
 Maintainer: INFERNO <bradlyupshaw@gmail.com>
 Author: Noah Saso
 Section: Utilities
-MD5sum: 9C4A1E77A40CA74CC5EDB9991B40868C
+MD5: 9C4A1E77A40CA74CC5EDB9991B40868C
 Filename: debs//pulltorespring.deb
